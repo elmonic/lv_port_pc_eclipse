@@ -1,2 +1,3 @@
-# lv_port_pc_eclipse
+# پروژه آماده LVGL داخل نرم افزار Eclips CDT
+
  
